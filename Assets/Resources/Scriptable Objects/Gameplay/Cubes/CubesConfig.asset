@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4585f9d239063b246b9d121cfb81fbe1, type: 3}
+  m_Name: CubesConfig
+  m_EditorClassIdentifier: 
+  _cubePrefabsByType:
+    _serializedList:
+    - Key: 1
+      Value: {fileID: 2942700552072118162, guid: 0bc7fb8d027d83e40931ca772cd73b23, type: 3}
+    - Key: 2
+      Value: {fileID: 2942700552072118162, guid: 0b8802441a681024cb39b445272cf395, type: 3}
+    - Key: 3
+      Value: {fileID: 2942700552072118162, guid: 8411ac5ada306e548b92f88fd1e53aa6, type: 3}
+    - Key: 4
+      Value: {fileID: 2942700552072118162, guid: d1818aa0ea621fc41a8f96fd52650335, type: 3}
+    - Key: 5
+      Value: {fileID: 2942700552072118162, guid: 92ad0af71187e2e41b5280304db6c5c9, type: 3}
+    - Key: 6
+      Value: {fileID: 2942700552072118162, guid: d16868d3f3c0fb24586cb4de14fd9603, type: 3}
+    - Key: 7
+      Value: {fileID: 2942700552072118162, guid: 05a4658f623f6964091403140b646533, type: 3}
+    - Key: 8
+      Value: {fileID: 2942700552072118162, guid: 899ea6a6c8e5d964ebc21fabbca06827, type: 3}
+    - Key: 9
+      Value: {fileID: 2942700552072118162, guid: 1e0e44920c9a98847a3b9d5cc99a3d28, type: 3}
+    - Key: 10
+      Value: {fileID: 2942700552072118162, guid: f56632c16287dff4db5a80e0e58cd881, type: 3}
+    - Key: 11
+      Value: {fileID: 2942700552072118162, guid: b4866a6e9822ad64e84bfe5b601757fd, type: 3}
+    - Key: 12
+      Value: {fileID: 2942700552072118162, guid: aae561a9d4441964d81095f35072c106, type: 3}
+    - Key: 13
+      Value: {fileID: 2942700552072118162, guid: 89f8530990c9da54293355387836ea80, type: 3}
+    - Key: 14
+      Value: {fileID: 2942700552072118162, guid: 87eac05677208dd41a4215ca5d1b0469, type: 3}
+    - Key: 15
+      Value: {fileID: 2942700552072118162, guid: 9eb497d94f9f4674fbf879b6fb91668c, type: 3}
+    - Key: 16
+      Value: {fileID: 2942700552072118162, guid: 9ea693cdd5f68d34dac0af5e5ff9390c, type: 3}
+    - Key: 17
+      Value: {fileID: 2942700552072118162, guid: ad081820d1a9db042874b025dd9613b4, type: 3}
+    - Key: 18
+      Value: {fileID: 2942700552072118162, guid: 787b64c4608809e4386e3436ce145833, type: 3}
+    - Key: 19
+      Value: {fileID: 2942700552072118162, guid: 577b762583e92f64e9a63356c33d6000, type: 3}
+    - Key: 20
+      Value: {fileID: 2942700552072118162, guid: 13d067c2add699146bd1d628b406bf66, type: 3}
